@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Um pequeno projeto de uma API de uma loja realizada durante o curso **java COMPLETO Programação Orientada a Objetos**.
+Um pequeno projeto API de uma loja realizada durante o curso **java COMPLETO Programação Orientada a Objetos**.
 
 Aplicação de CRUD realizada em uma arquitetura de 3 camadas, na qual, a primeira, *Repository Data*, mapeia a persistência de dados das entidades no banco de dados. Nesse processo, as bases são acessadas e manipuladas (conforme aplicação das regras de negócio) através da camada *Service*, e lançadas à camada *Resource*, responsável pela criação dos endpoints, segundo a arquitetura REST.
 
